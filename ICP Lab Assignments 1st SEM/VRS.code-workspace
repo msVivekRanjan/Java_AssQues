@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Lab5"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"Assignment6",
+			"Assignment5",
+			"Assignment4",
+			"Assignment3",
+			"Assignment7"
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
